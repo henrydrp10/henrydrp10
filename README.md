@@ -1,5 +1,5 @@
 ## Hello everyone! 👋 
-### My name is Henry Rubiano Poveda, and I am a Computer Science student!
+### My name is Henry Rubiano Poveda, and I am a Computer Science graduate!
 
 Here you can see some of the different projects I have worked on!
 
