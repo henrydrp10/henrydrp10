@@ -1,14 +1,16 @@
 ## Hello everyone! 👋 
 ### My name is Henry Rubiano Poveda, and I am a Computer Science student!
 
-Here you can see some of the different projects I have worked on / taken part of! (Some of these have been imported from my school Gitlab account)
+Here you can see some of the different projects I have worked on!
 
-- 📆 A team software engineering project for events management (Eventlite!), that helped me with useful version control practices such as Issue Tracking, Branching, Merge Requests and Code Review, Unit and Integration Testing, etc... 
-- 📟 My final year project!! For this project I implemented an IoT system for Real-Time Data Collection and Monitoring.
-- 📽 A sorting visualizer, where you can visually experience how an array is sorted using different sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort and Quick sort. 
-- 🎆 A particle system simulation project (fireworks), developed using C++ OpenGL!
+- A Federated Learning approach to a well known Machine Learning problem (Turbofan Engine Degradation datasets) for Predictive Maintenance, using a wide range of Neural Network architectures and Decision Tree Algorithms.
+- An IoT system for Real-Time Data Collection and Monitoring using an ESP32 microcontroller and a variety of sensors.
+- A MLOps automation Pipeline using Apache Airflow and deployed using Docker, in order to perform churn prediction on the Telecom Customer Dataset.
+- A particle system simulation project (fireworks), developed using C++ OpenGL!
+- A team software engineering project for events management (Eventlite!), that helped me with useful version control practices such as Issue Tracking, Branching, Merge Requests and Code Review, Unit and Integration Testing, etc... 
+- A sorting visualizer, where you can visually experience how an array is sorted using different sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort and Quick sort. 
 
-And more to come in the near future!
+
 
 <!---
 henrydrp10/henrydrp10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
