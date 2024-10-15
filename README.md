@@ -3,6 +3,7 @@
 
 Here you can see some of the different projects I have worked on!
 
+- A Room Booking System, built using C\# .NET, with different approaches to booking conflict detection, and flexible room sorting strategies.
 - A Real-time Telemetry Data Collection and Storage Solution, implemented in C++20, designed to collect and store data from sources with different sample rates into both memory and persistent storage, while also allowing for the quick extraction of the data for future analysis and calculations.
 - A Federated Learning approach to a well known Machine Learning problem (Turbofan Engine Degradation datasets) for Predictive Maintenance, using a wide range of Neural Network architectures and Decision Tree Algorithms.
 - An IoT system for Real-Time Data Collection and Monitoring using an ESP32 microcontroller and a variety of sensors.
